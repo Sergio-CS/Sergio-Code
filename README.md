@@ -1,2 +1,3 @@
 # Sergio-Code
-Scripts
+I'am @Sergio-CS
+This repository is for Bash Scripting
